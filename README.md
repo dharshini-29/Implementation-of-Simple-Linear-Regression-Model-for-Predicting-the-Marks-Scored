@@ -68,10 +68,29 @@ RegisterNumber: 212223220017
 ```
 
 ## Output:
-![Screenshot 2024-11-14 082500](https://github.com/user-attachments/assets/d4d2c901-2c90-47e6-a29b-1d3884c4f933)
-![Screenshot 2024-11-14 082512](https://github.com/user-attachments/assets/72b36a03-9e42-4ac1-9888-4d3b7e3bf267)
-![Screenshot 2024-11-14 082534](https://github.com/user-attachments/assets/c8472d92-f3b9-4a08-874f-66a9e05963a1)
-![Screenshot 2024-11-14 082601](https://github.com/user-attachments/assets/bf01314f-abd0-4d6b-99d7-e9bdefa2ddf4)
+Head Values
+![Screenshot 2025-02-28 094252](https://github.com/user-attachments/assets/5a17c401-f560-4193-89d8-c7b0523df028)
+Tail Values
+![image](https://github.com/user-attachments/assets/1b91e156-b944-446c-b165-0cbc1d4811f2)
+Compare Dataset
+![Screenshot 2025-02-28 094408](https://github.com/user-attachments/assets/e395b609-97be-45a6-8fec-71940b3eee83)
+Predicted values
+![Screenshot 2025-02-28 094526](https://github.com/user-attachments/assets/1a0a0f94-e3f8-478d-9663-1884f8601ca1)
+
+Training Set
+![Screenshot 2025-02-28 094613](https://github.com/user-attachments/assets/bbff8817-3377-4073-9905-6ce88a5474d1)
+Testing Set
+![Screenshot 2025-02-28 094642](https://github.com/user-attachments/assets/80c96868-2d4b-4e72-b1ed-448abee776ab)
+Error
+![Screenshot 2025-02-28 094723](https://github.com/user-attachments/assets/4c43d110-852e-4df1-b651-4571db457133)
+
+
+
+
+
+
+
+
 
 
 
