@@ -63,7 +63,7 @@ print("RMSE= ",rmse)
 ```
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: K Dharshini
-RegisterNumber: 23010696 
+RegisterNumber: 212223220017
 
 ```
 
